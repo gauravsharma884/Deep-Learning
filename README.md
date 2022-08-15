@@ -23,7 +23,7 @@ For this Project 4 celebrities considered for building the model
 4. Robert Downey Jr.: Iron-Man
 
 
-## Poetry Generation (RNN + Markov)
+## Poetry Generation (RNN + Markov) (Poetry_Generator.ipynb)
 This Projects builds model to generate new verses in the style of the poetry by using RNN (Recurrent Neural Networks) and Markov Chains.
 ### About Project
 In this script a model is build to genrate a new poetry lyrics, the vocabulary and rhyme schemes of rappers: Notorious B.I.G. and Lil Wayne are taken into consideration
